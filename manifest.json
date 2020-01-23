@@ -1,6 +1,6 @@
 {
-    "short_name": "Maps",
-    "name": "Google Maps",
+    "short_name": "Pearcee",
+    "name": "Steven Pearce",
     "icons": [
       {
         "src": "images/icons-192.png",
@@ -13,7 +13,7 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": "intex.html",
+    "start_url": "index.html",
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/",
